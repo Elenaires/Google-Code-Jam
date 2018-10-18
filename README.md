@@ -1,10 +1,10 @@
-Google Code Jam Past contents can be found
+Google Code Jam Past contents can be found at
 https://code.google.com/codejam/past-contests#io
 
-To compile
+To compile:
 javac filename.java
 
-To read from stdin and write to stdout
+To read from stdin and write to stdout:
 java filename < input_file.txt > output_file.txt
 
 For other languages
